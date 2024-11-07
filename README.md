@@ -8,7 +8,7 @@ I am a final-year ICT student specializing in business application development, 
 
 | Skill             | Associated Project              |
 |-------------------|---------------------------------|
-| Java              | Student Management System       |
+| Java              |<a href="https://github.com/LungeloMh/Student-Management-System/tree/main">Student Management System</a>      |
 | VB.NET            | Library Management System       |
 | Oracle APEX       | Graduate Career Selection       |
 | MS Access         | Library Management Database     |
@@ -28,7 +28,7 @@ I am a final-year ICT student specializing in business application development, 
 - **Modelio**
 
 ## Projects
-- **Student Management System** – A comprehensive system for managing student information using Java.
+- **<a href="https://github.com/LungeloMh/Student-Management-System/tree/main">Student Management System</a>** – A comprehensive system for managing student information using Java.
 - **Library Management System** – Built with VB.NET, this application streamlines library processes and record-keeping.
 - **Graduate Career Selection** – Developed in Oracle APEX, assisting graduates in career choices.
 - **Library Management Database** – Created in MS Access, handling library data and management.
