@@ -1,1 +1,34 @@
-# LUNGELO-MLOTSHWA
+# Lungelo Mlotshwa
+<a href="https://linkedin.com/in/lungelo-mlotshwa-11a316255"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Objective
+I am a final-year ICT student specializing in business application development, with a strong passion for technology and a commitment to building impactful applications. My aim is to leverage my programming and database management skills in roles focused on application development and ICT solutions.
+
+## Skills
+
+| Skill             | Associated Project              |
+|-------------------|---------------------------------|
+| Java              | Student Management System       |
+| VB.NET            | Library Management System       |
+| Oracle APEX       | Graduate Career Selection       |
+| MS Access         | Library Management Database     |
+
+## Tools
+
+### Database
+- **Oracle APEX Database**
+- **MS Access**
+
+### Application Development
+- **Oracle APEX**
+- **IntelliJ** (for Java)
+- **Visual Basic** (for VB.NET)
+
+### Modeling Tools
+- **Modelio**
+
+## Projects
+- **Student Management System** – A comprehensive system for managing student information using Java.
+- **Library Management System** – Built with VB.NET, this application streamlines library processes and record-keeping.
+- **Graduate Career Selection** – Developed in Oracle APEX, assisting graduates in career choices.
+- **Library Management Database** – Created in MS Access, handling library data and management.
