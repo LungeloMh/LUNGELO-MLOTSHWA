@@ -23,9 +23,11 @@ I am a final-year ICT student specializing in business application development, 
 - **Oracle APEX**
 - **IntelliJ** (for Java)
 - **Visual Basic** (for VB.NET)
+- **Oracle Applications**
+- **Oracle SQL Developer**
 
 ### Modeling Tools
-- **Modelio**
+- **Modelio** (For Unified Modeling Language (UML))
 
 ## Projects
 - **<a href="https://github.com/LungeloMh/Student-Management-System/tree/main">Student Management System</a>** – A comprehensive system for managing student information using Java.
