@@ -10,7 +10,7 @@ I am a final-year ICT student specializing in business application development, 
 |-------------------|---------------------------------|
 | Java              |<a href="https://github.com/LungeloMh/Student-Management-System/tree/main">Student Management System</a>      |
 | VB.NET            | Library Management System       |
-| Oracle APEX       | Graduate Career Selection       |
+| Oracle APEX       | <a href="https://github.com/LungeloMh/GradsHub/blob/main/README.md">Career Plug</a>       |
 | MS Access         | Library Management Database     |
 
 ## Tools
@@ -30,5 +30,5 @@ I am a final-year ICT student specializing in business application development, 
 ## Projects
 - **<a href="https://github.com/LungeloMh/Student-Management-System/tree/main">Student Management System</a>** – A comprehensive system for managing student information using Java.
 - **Library Management System** – Built with VB.NET, this application streamlines library processes and record-keeping.
-- **Graduate Career Selection** – Developed in Oracle APEX, assisting graduates in career choices.
+- **<a href="https://github.com/LungeloMh/GradsHub/blob/main/README.md">Career Plug</a>** – Developed in Oracle APEX, assisting graduates in career choices.
 - **Library Management Database** – Created in MS Access, handling library data and management.
