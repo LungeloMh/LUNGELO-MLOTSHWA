@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/lungelo-mlotshwa-11a316255"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-I am a final-year ICT student specializing in business application development, with a strong passion for technology and a commitment to building impactful applications. My aim is to leverage my programming and database management skills in roles focused on application development and ICT solutions.
+I am a recent Graduate in ICT specializing in business application development, with a strong passion for technology and a commitment to building impactful applications. My aim is to leverage my programming and database management skills in roles focused on application development and ICT solutions.
 
 ## Skills
 
